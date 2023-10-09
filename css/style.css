@@ -98,5 +98,13 @@ body{
     margin: -10px 0 15px;
     display: flex;
     justify-content: space-between;
-
 }
+
+
+.check label input{
+    vertical-align: middle;
+    margin-right: 6px;
+    align-content: #ffffff
+}
+
+
